@@ -1,0 +1,21 @@
+<linker>
+<assembly fullname="Assembly-CSharp">
+<type fullname="PlayerController" preserve="all"/>
+</assembly>
+<assembly fullname="UnityEngine.Networking">
+<type fullname="UnityEngine.Networking.NetworkAnimator" preserve="all"/>
+<type fullname="UnityEngine.Networking.NetworkBehaviour" preserve="all"/>
+<type fullname="UnityEngine.Networking.NetworkDiscovery" preserve="all"/>
+<type fullname="UnityEngine.Networking.NetworkIdentity" preserve="all"/>
+<type fullname="UnityEngine.Networking.NetworkLobbyManager" preserve="all"/>
+<type fullname="UnityEngine.Networking.NetworkLobbyPlayer" preserve="all"/>
+<type fullname="UnityEngine.Networking.NetworkManager" preserve="all"/>
+<type fullname="UnityEngine.Networking.NetworkManagerHUD" preserve="all"/>
+<type fullname="UnityEngine.Networking.NetworkMigrationManager" preserve="all"/>
+<type fullname="UnityEngine.Networking.NetworkProximityChecker" preserve="all"/>
+<type fullname="UnityEngine.Networking.NetworkStartPosition" preserve="all"/>
+<type fullname="UnityEngine.Networking.NetworkTransformChild" preserve="all"/>
+<type fullname="UnityEngine.Networking.NetworkTransform" preserve="all"/>
+<type fullname="UnityEngine.Networking.NetworkTransformVisualizer" preserve="all"/>
+</assembly>
+</linker>
